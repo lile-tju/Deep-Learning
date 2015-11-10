@@ -4,6 +4,7 @@ The following contains
  - A MATLAB implementation of Convolutional Classification RBM
  - A Theano implementation of Classification RBM which can be used as 
    a top layer in DBN to obtain better performance than DBN
+ - Instructions for running code in README.txt in each folder  
  - Thesis containing the results of above implementation
 
 Abstract:
